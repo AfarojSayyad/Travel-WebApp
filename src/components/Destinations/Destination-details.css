@@ -1,0 +1,32 @@
+.page-container
+{
+    display: flex;
+    background-color: rgb(211, 204, 218);
+    height: 100%;
+    width: 100%;
+}
+.cards__container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    margin-top: 10px;
+  }
+  .image
+  {
+      margin: 20px;
+  }
+  .p-info
+  {
+      font-size: 20px;
+      padding: 10px;
+  }
+  .btn
+  {
+      background-color: rgb(80, 70, 90);
+      
+      font-size: 15px;
+  }
