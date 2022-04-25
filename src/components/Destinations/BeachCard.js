@@ -1,14 +1,8 @@
 import React from 'react';
-// import './Card3.css';
 import CardItem from '../CardItem';
-
-
-// import {WaterfallImages2} from '../../WaterfallDetails';
 import {BeachImages} from '../../BeachDetails';
+
 function BeachCard() {
-   
-    // const result = data.find(({text})=> text==='1. Chitrakoot Falls, Chhattisgarh');
-    // console.log(result)
     
     return ( 
         <>

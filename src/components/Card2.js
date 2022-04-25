@@ -93,7 +93,7 @@ function Card2() {
                                 {
                                     return <CardItem {...item}/>
                                 })
-                            }   
+                        }  
                             
                         </ul>
                     </div>

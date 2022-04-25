@@ -38,22 +38,22 @@ export const WaterfallImages = [
     },
     
 ]
-export const WaterfallImages2 =[
-    {
-        id2:4,
-        url:"https://www.tripsavvy.com/thmb/xOoa0I3gZ0nfPMGMn2KsEZN0elo=/2000x2000/smart/filters:no_upscale()/GettyImages-141296615-aafce3a8534c45aba8afd312fa155cea.jpg",
-        text:"4.  Athirapally Falls, Kerala",
-        Info:"The Chalakudy river originates from the Anamudi mountains and falls near Athirapally, giving the waterfall its name. It is one of the most beautiful waterfalls in Kerala and is often referred to as the Niagara of India.",
-        label:'see details',
-        path:'/waterfall/4',
+// export const WaterfallImages2 =[
+//     {
+//         id2:4,
+//         url:"https://www.tripsavvy.com/thmb/xOoa0I3gZ0nfPMGMn2KsEZN0elo=/2000x2000/smart/filters:no_upscale()/GettyImages-141296615-aafce3a8534c45aba8afd312fa155cea.jpg",
+//         text:"4.  Athirapally Falls, Kerala",
+//         Info:"The Chalakudy river originates from the Anamudi mountains and falls near Athirapally, giving the waterfall its name. It is one of the most beautiful waterfalls in Kerala and is often referred to as the Niagara of India.",
+//         label:'see details',
+//         path:'/waterfall/4',
         
-    },
-    {
-        id2:5,
-        url:"https://s3.india.com/travel/wp-content/uploads/2017/06/Jog-Falls.jpg",
-        text:"5. Jog Falls, Karnataka",
-        label:'see details',
-        path:'/waterfall/5',
+//     },
+//     {
+//         id2:5,
+//         url:"https://s3.india.com/travel/wp-content/uploads/2017/06/Jog-Falls.jpg",
+//         text:"5. Jog Falls, Karnataka",
+//         label:'see details',
+//         path:'/waterfall/5',
 
-    }
-]
+//     }
+// ]

@@ -1,8 +1,6 @@
 import React from 'react';
-import { Link, Route } from 'react-router-dom';
-// import Waterfall from './Waterfall';
-//import './Card.css';
-//https://images.pexels.com/photos/3225528/pexels-photo-3225528.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+import { Link } from 'react-router-dom';
+
 function CardItem(props) {
     return ( 
         <><li className='cards__item'>
@@ -17,17 +15,6 @@ function CardItem(props) {
             </div>
          </Link> 
         </li>
-
-
-            {/* <li>
-                <Link to='/waterfall'>
-                </Link>
-            </li>
-            <hr/>
-            <Routes>
-                <Route path='/waterfall' element={<Waterfall/>}/>
-               
-            </Routes> */}
         </>
      );
 }

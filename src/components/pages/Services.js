@@ -1,9 +1,6 @@
 import React from 'react';
 import Card2 from '../Card2';
 import Footer from '../Footer';
-//import '../../App.css';
-//import { Button } from "./Button";
-//import "./HeroSection.css";
 import "./Services.css";
 
 export default function Services()
@@ -25,15 +22,6 @@ export default function Services()
       <Footer/>
       
       </>
-      /* <div >
-        <Button className="btns"
-          buttonStyle="btn--outline"
-          buttonSize="btn--large"
-          >
-          Contact Form
-          
-        </Button>
-      </div> */
     
     );
     

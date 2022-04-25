@@ -1,7 +1,6 @@
 import React,{useState, useEffect} from 'react';
 import {Link} from 'react-router-dom';
 import { Button } from './Button';
-import Footer from './Footer';
 import './Navbar.css';
 
 function Navbar() {
@@ -63,11 +62,11 @@ function Navbar() {
   
               <li>
                 <Link
-                  to='/sign-up'
+                  to='/contact-us'
                   className='nav-links-mobile'
                   onClick={closeMobileMenu}
                 >
-                  Sign Up
+                  Contact Us
                 </Link>
               </li>
             </ul>

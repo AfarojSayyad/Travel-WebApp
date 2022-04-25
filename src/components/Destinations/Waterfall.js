@@ -1,14 +1,7 @@
 import React from 'react';
-
 import Card3 from './Card3';
-// import{
-//     BrowserRouter as Router,
-//     Route,
-//     Router,
-//     Link,
-// } from 'react-router-dom';
-// import CardItem from '../components/Destinations/CardItem3';
 import './Destinations.css';
+
 function Waterfall() {
     return ( 
         <>
