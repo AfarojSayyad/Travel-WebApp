@@ -39,19 +39,19 @@ function Card2() {
     const data3 =[
         {
             url:"https://images.pexels.com/photos/4825701/pexels-photo-4825701.jpeg",
-            text:"Adventure",
+            text:"Explore the Adventurous stay inside adventurous destination",
             label:'Adventure',
             path:'/services'
         },
         {
             url:'https://images.pexels.com/photos/2901215/pexels-photo-2901215.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
-            text:"Luxury",
+            text:"Enjoy Luxurious stay",
             label:'Luxury',
             path:'/services'
         },
         {
             url:"https://images.pexels.com/photos/10854326/pexels-photo-10854326.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            text:"Local Stay",
+            text:"Enjoy local stay",
             label:'Local Stay',
             path:'/services'
         }
