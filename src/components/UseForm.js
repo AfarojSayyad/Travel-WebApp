@@ -26,6 +26,7 @@ const UseForm =(callback, validate)=>{
 
     const handleSubmit = e =>
     {
+        // The preventDefault() method cancels the event if it is cancelable, meaning that the default action that belongs to the event will not occur.
         e.preventDefault();
 
         setErrors(validate(values));
